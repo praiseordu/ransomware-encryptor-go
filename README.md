@@ -10,7 +10,7 @@ This repository contains a simple ransomware encryptor written in Go. The code e
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/praiseordu/ransomware-encryptor-go](https://github.com/praiseordu/ransomware-encryptor-go)https://github.com/praiseordu/ransomware-encryptor-go.git
+   git clone https://github.com/praiseordu/ransomware-encryptor-go.git
    cd ransomware-encryptor-go
 Set your configuration in the main.go file:
 
